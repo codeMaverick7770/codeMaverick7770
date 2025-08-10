@@ -11,12 +11,12 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username={GITHUB_USERNAME}&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=codeMaverick7770&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <p>
   <a href="mailto:Mtauqeer7770@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohammad-tauqeer-ansari"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/{GITHUB_USERNAME}"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/codeMaverick7770"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -74,7 +74,7 @@
 - 🔹 **kickDSA – Online Judge Platform** (5,000+ learners)  
   Scalable OJ with problem sets, submissions, and LLM-powered hints.  
   Tech: Node.js, Express, MongoDB, Docker, AWS EC2, LLM  
-  <a href="https://github.com/{GITHUB_USERNAME}/kickDSA">Repo</a> • <a href="#">Live</a>
+  <a href="https://github.com/codeMaverick7770/kickDSA">Repo</a> • <a href="https://kickdsa.online/">Live</a>
 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -85,7 +85,7 @@
 - 🔹 **Aagaz'25 Sports Fest Management Platform** (5,000+ users)  
   MERN web app with OAuth2, registration, payments, and admin dashboards.  
   Tech: MERN, OAuth2, Payments  
-  <a href="https://github.com/{GITHUB_USERNAME}/aagaz25">Repo</a> • <a href="#">Live</a>
+  <a href="https://github.com/codeMaverick7770/aagaz25">Repo</a> • <a href="https://aagaz25.online/">Live</a>
 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -96,13 +96,13 @@
 - 🔹 **AquaAlert – IoT + ML Water Leakage Detection**  
   Time-series ML (LSTM, AutoEncoders) for anomaly detection; Samsung Solve for Tomorrow Finalist.  
   Tech: Python, LSTM, AutoEncoders, Streamlit  
-  <a href="https://github.com/{GITHUB_USERNAME}/aquaalert">Repo</a> • <a href="#">Live</a>
+  <a href="https://github.com/codeMaverick7770/aquaalert">Repo</a> • <a href="#">Live</a>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-3A3A3A?style=flat&logo=tensorflow&logoColor=white" />
 
-> More projects on my GitHub: https://github.com/{GITHUB_USERNAME}
+> More projects on my GitHub: https://github.com/codeMaverick7770
 
 ---
 
@@ -123,13 +123,13 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GITHUB_USERNAME}&theme=tokyonight" alt="Profile Summary" />
 
-<img src="https://streak-stats.demolab.com?user={GITHUB_USERNAME}&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=codeMaverick7770&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username={GITHUB_USERNAME}&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=codeMaverick7770&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMaverick7770&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username={GITHUB_USERNAME}&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=codeMaverick7770&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 
 </div>
 
@@ -150,7 +150,7 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={GITHUB_USERNAME}&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaverick7770&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -160,5 +160,5 @@
 <p align="center">
   <a href="mailto:Mtauqeer7770@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mohammad%20Tauqeer-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohammad-tauqeer-ansari"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Tauqeer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/{GITHUB_USERNAME}"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-codeMaverick7770-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/codeMaverick7770"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-codeMaverick7770-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
