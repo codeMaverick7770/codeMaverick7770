@@ -5,7 +5,7 @@
 **Competitive Programmer • Full-Stack Developer • AI & ML Enthusiast**
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:Mtauqeer7770@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mohammad-tauqeer-ansari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/mohammad-tauqeer-ansari](https://www.linkedin.com/in/mohammad-tauqeer-a-642702258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/codeMaverick7770)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Purple%201957-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/pedrosa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201874-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Mtauqeer7770)
